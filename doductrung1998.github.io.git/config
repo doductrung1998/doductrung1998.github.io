@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/doductrung1998/doductrung1998.github.io.git
+	fetch = +refs/*:refs/*
+	mirror = true

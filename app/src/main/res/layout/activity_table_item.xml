@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:src="@drawable/computer_off"
+        android:layout_gravity="center"
+        android:id="@+id/img_Table_Item"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <TextView
+        android:gravity="center"
+        android:textSize="15sp"
+        android:text="Table 1"
+        android:id="@+id/txt_Table_Item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
